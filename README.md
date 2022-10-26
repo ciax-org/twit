@@ -1,4 +1,4 @@
-# Twit - Twitter utility
+# Twit - Python script using tweepy to set notifications for all Twitter friends
 
 ## Problem
 
@@ -23,6 +23,10 @@ or
 ```bash
 python main.py -i YourTwitterScreenName -y
 ```
+
+## Dependencies
+
+tweepy - Version used 4.10.1 (others may work, this was just the latest)
 
 ## TODO
 
