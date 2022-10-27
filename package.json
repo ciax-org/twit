@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "tweepy": "^4.10.1"
+  }
+}
